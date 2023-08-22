@@ -19,3 +19,4 @@ vxzfvf
 v cxvfvacc
 khkk
 vxzc
+test_selfHosted
